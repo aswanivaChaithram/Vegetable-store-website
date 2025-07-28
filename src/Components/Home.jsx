@@ -21,7 +21,7 @@ const Home = () => {
         </h2>
         <button className="mt-8 px-6 py-3 bg-green-800 text-white rounded
          hover:bg-green-700 cursor-pointer" onClick={() => 
-         navigate('/products')}>
+         navigate('/Vegetable-store-website/products')}>
           Browse our shop
         </button>
       </section>
